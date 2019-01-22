@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="weka-src/src/main/java"/>
+	<classpathentry kind="src" path="weka-src/src/test/java"/>
+	<classpathentry kind="lib" path="remoteExperimentServer.jar"/>
+	<classpathentry kind="lib" path="weka-src/lib/java-cup.jar"/>
+	<classpathentry kind="lib" path="weka-src/lib/JFlex.jar"/>
+	<classpathentry kind="lib" path="weka-src/lib/junit.jar"/>
+	<classpathentry kind="lib" path="weka.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
