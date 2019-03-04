@@ -1,5 +1,7 @@
 exclude:
-- /bin/.*
-- /changelogs/.*
-- /data/.*
-- /doc/.*
+  - /bin/.*
+  - /changelogs/.*
+  - /data/.*
+  - /doc/.*
+include:
+  - /weka-src/.*
